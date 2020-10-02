@@ -13,7 +13,7 @@
  */
 
 
-use LibreNMS\Authentication\Auth;
+use LibreNMS\Authentication\LegacyAuth;
 
 header('Content-type: application/json');
 
